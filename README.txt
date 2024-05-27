@@ -5,6 +5,8 @@ a+b=a;
 a-b=b;
 a-b=a;
 
+System.out.println(a,b);
+
 
 
 
