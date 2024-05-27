@@ -7,6 +7,11 @@ a-b=a;
 
 System.out.println(a,b);
 
+int c=0;
+c=a;
+a=b;
+b=c;
+
 
 
 
